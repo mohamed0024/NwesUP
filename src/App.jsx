@@ -4,7 +4,6 @@ import Navbar from './components/Navbar'
 import HomePage from './pages/HomePage'
 import PostsPage from './pages/PostsPage'
 import PostDetails from './pages/PostDetails'
-
 export default function App() {
   return (
     <BrowserRouter>
